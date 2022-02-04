@@ -1,0 +1,23 @@
+#rectangle{
+    margin:auto;
+    width:30%;
+    text-align: right;
+}
+#calculate{
+    margin-left: 5%;
+}
+#area,#perimeter{
+    font-weight:bold;
+}
+#length,#widt{
+    width:50%;
+    margin-top:5%;
+    padding: 2%;
+    border-radius: 5px;
+}
+#calculate{
+    margin-top:5%;
+    padding: 2%;
+    border-radius: 5px;
+    margin-right:10%;
+}
